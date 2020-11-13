@@ -1,0 +1,10 @@
+#!/bin/bash
+./00_create_disks.sh
+./01_createCluster.sh
+./02_getCred.sh
+./03_attachDisks.sh
+./04_etcd.sh
+./05_pvcController.sh
+./06_pxSpec.sh
+./07_status.sh
+./08_pxctlStatus.sh

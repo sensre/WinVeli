@@ -1,2 +1,2 @@
-# AutoSRE
-all kuberenetes set up and devops scripts
+# WinVeli
+More details coming soon !!
